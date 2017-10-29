@@ -1,0 +1,17 @@
+{
+  "name": "selenium_test",
+  "version": "1.0.0",
+  "dependencies": {
+    "selenium-webdriver": "^3.6.0",
+    "chromedriver": "2.33.2",
+    "mocha": "4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Natalya Reshetnikova",
+  "license": "ISC",
+  "description": "selenium_test"
+
+}
